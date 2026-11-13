@@ -1,2 +1,2 @@
 # ATA_FRB20240114A
-High Frequency Wideband Study of FRB 20240114A with the Allen Telescope Array
+Code scripts for the analysis of FRB 20240114A bursts detected with the Allen Telescope Array, with reference to the paper by Joshi et. al 2026 - High Frequency Wideband Study of FRB 20240114A with the Allen Telescope Array (ApJ, 2026).
