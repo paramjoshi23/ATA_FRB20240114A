@@ -33,7 +33,7 @@ The scripts in this repository support calculations and figures involving:
 
 The repository is designed to generate additional data and image files such as `*_plot_paper_final.png`, cumulative-distribution PNGs, violin PNGs, and text arrays from the four calculation scripts described below. Those generated products are not all currently included.
 
-> **NPZ and intermediate-text inputs:** `plot_FRB_npz_paper_FINAL3.py` requires an external `.npz` burst waterfall file, and the flux/fluence/energy calculation scripts require plain-text arrays that are not included in this repository. See the script table and pipeline below.
+> **NPZ and intermediate-text inputs:** `plot_FRB_npz_paper_FINAL3.py` requires an external `.npz` burst waterfall file (https://doi.org/10.5281/zenodo.19429570 contains all the NPZ files for the 97 bursts), and the flux/fluence/energy calculation scripts require plain-text arrays that are not included in this repository. See the script table and pipeline below.
 
 ## Script reference
 
